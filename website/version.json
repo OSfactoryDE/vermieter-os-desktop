@@ -1,0 +1,31 @@
+{
+  "produkt": "Vermieter OS Pro",
+  "version": "1.0.14",
+  "datum": "2026-11-15",
+  "download": "https://os-factory.de/vermieter-os-desktop/",
+  "neu": [
+    "Das ist neu: Nach einem Update zeigt die Übersicht einmal, was dazugekommen ist – jeder Punkt führt mit einem Klick an seine Stelle",
+    "Alles löschen und leer beginnen: Wer erst mit eigenen Zahlen probiert hat, löscht unter Einstellungen › Sicherung alles auf einmal – mit zwei Rückfragen, und der Stand von vorher bleibt bei den Sicherungen",
+    "Was fehlt, führt hin: Neben jedem Hinweis „… fehlt“ steht der Knopf „Eintragen“ – er öffnet das richtige Formular mit der Schreibmarke im Feld, und nach dem Speichern sind Sie wieder dort, wo der Hinweis stand",
+    "Miete korrigieren mit einem Klick: „Mieter bearbeiten“ führt mit „Miete korrigieren“ direkt zum Eintrag im Mietverlauf – bereits gebuchte Zahlungen bleiben erhalten; fehlt die Miete noch ganz, tragen Sie sie dort ab Vertragsbeginn ein",
+    "Umstieg aus einer Tabelle oder der Browser-Fassung: Namen werden in Vor- und Nachname getrennt",
+    "CO₂-Kosten: Fehlt der CO₂-Ausstoß in kg, weist das Programm jetzt darauf hin, statt mit der niedrigsten Stufe zu rechnen",
+    "Die Vergleichsmiete pflegen Sie jetzt direkt am Objekt",
+    "Eine Abrechnung, die sich noch nicht rechnen lässt, sagt sofort, was fehlt",
+    "Die Erklärungen hinter dem „i“ bleiben beim Scrollen offen",
+    "Mehr Schutz für Ihre Daten: Das Programm sieht die Datenbankdatei bei jedem Start durch. Ist sie beschädigt, etwa nach einem Fehler der Festplatte, bietet es sofort die Sicherungen zum Zurückspielen an – bevor der Schaden in die tägliche Sicherung gerät"
+  ],
+  "pakete": {
+    "mac": {
+      "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.14/vermieter-os-pro-1.0.14-mac.zip",
+      "sha256": "b9a4084b18d2a20a64dba59de7129b89c5d76111f0c400a233db784acf02031e",
+      "bytes": 234108054,
+      "feed": "https://os-factory.de/vermieter-os-desktop/update-mac.json"
+    },
+    "windows": {
+      "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.14/vermieter-os-pro-1.0.14-setup.exe",
+      "sha256": "fcdd86ed56abcf638b2b4199ecad84a821eb9ee3433fb73e03e92f71f89428a9",
+      "bytes": 219984531
+    }
+  }
+}
