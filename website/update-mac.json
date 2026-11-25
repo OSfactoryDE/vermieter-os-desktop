@@ -1,14 +1,14 @@
 {
-  "currentRelease": "1.0.15",
+  "currentRelease": "1.0.16",
   "releases": [
     {
-      "version": "1.0.15",
+      "version": "1.0.16",
       "updateTo": {
-        "version": "1.0.15",
-        "pub_date": "2026-11-20T10:18:10+01:00",
-        "notes": "Lesetipp: Unten in der Karte „Das ist neu“ empfiehlt das Programm einen Artikel aus unserem Ratgeber auf os-factory.de – zurzeit, was sich 2027 und 2028 für Vermieter ändert",
-        "name": "1.0.15",
-        "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.15/vermieter-os-pro-1.0.15-mac.zip"
+        "version": "1.0.16",
+        "pub_date": "2026-11-25T17:57:36+01:00",
+        "notes": "Aktualisieren noch einfacher: Bevor sich das Programm schließt, steht da, dass es sich nach etwa einer Minute von selbst wieder öffnet. Klappt es einmal nicht, sagt es das beim nächsten Start und installiert die neue Version mit einem Knopf\n„Selbst installieren“ lädt die neue Version im Programm und öffnet sie – ohne Umweg über die Webseite\nUnten in der Seitenleiste führt „Kaufen“ direkt zur Lizenz, bis Sie gekauft haben",
+        "name": "1.0.16",
+        "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.16/vermieter-os-pro-1.0.16-mac.zip"
       }
     }
   ]
