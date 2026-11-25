@@ -1,22 +1,29 @@
 {
   "produkt": "Vermieter OS Pro",
-  "version": "1.0.15",
-  "datum": "2026-11-20",
+  "version": "1.0.16",
+  "datum": "2026-11-25",
   "download": "https://os-factory.de/vermieter-os-desktop/",
   "neu": [
-    "Lesetipp: Unten in der Karte „Das ist neu“ empfiehlt das Programm einen Artikel aus unserem Ratgeber auf os-factory.de – zurzeit, was sich 2027 und 2028 für Vermieter ändert"
+    "Aktualisieren noch einfacher: Bevor sich das Programm schließt, steht da, dass es sich nach etwa einer Minute von selbst wieder öffnet. Klappt es einmal nicht, sagt es das beim nächsten Start und installiert die neue Version mit einem Knopf",
+    "„Selbst installieren“ lädt die neue Version im Programm und öffnet sie – ohne Umweg über die Webseite",
+    "Unten in der Seitenleiste führt „Kaufen“ direkt zur Lizenz, bis Sie gekauft haben"
   ],
   "pakete": {
     "mac": {
-      "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.15/vermieter-os-pro-1.0.15-mac.zip",
-      "sha256": "2c80bf3cd1630bfde5d3d49bdada6255043822b97e66b37fbc1ba2e6a94a860d",
-      "bytes": 234108742,
-      "feed": "https://os-factory.de/vermieter-os-desktop/update-mac.json"
+      "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.16/vermieter-os-pro-1.0.16-mac.zip",
+      "sha256": "6378d058342d69f44970486c461a9e8933142a600c6405ee8d0f2108da35bec9",
+      "bytes": 234119677,
+      "feed": "https://os-factory.de/vermieter-os-desktop/update-mac.json",
+      "dmg": {
+        "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.16/vermieter-os-pro-1.0.16.dmg",
+        "sha256": "908ab3cf4664d4476a4eaa54664353ce8a686e94e74d420fa6cbbb9f60fcc84c",
+        "bytes": 234752028
+      }
     },
     "windows": {
-      "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.15/vermieter-os-pro-1.0.15-setup.exe",
-      "sha256": "ecf12d18c3a77286380efe188aefa137c67f757b72a8dcde7088005f52e6912e",
-      "bytes": 220024978
+      "url": "https://github.com/OSfactoryDE/vermieter-os-desktop/releases/download/v1.0.16/vermieter-os-pro-1.0.16-setup.exe",
+      "sha256": "f80f0b29a0ad5062cf72353cfd0ae8f32e46ec2cb9b6b6599d553ad4ad9c4322",
+      "bytes": 220019528
     }
   }
 }
